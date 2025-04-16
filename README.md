@@ -65,15 +65,15 @@ Application: https://github.com/bytedance/UI-TARS-desktop
 
 **Minecraft**
 
-| Task Type   | Task Name           | [VPT](https://openai.com/index/vpt/) | [DreamerV3](https://www.nature.com/articles/s41586-025-08744-2) | [Previous SOTA](https://arxiv.org/abs/2503.16365) | TARS w/o Thought | TARS w/ Thought |
+| Task Type   | Task Name           | [VPT](https://openai.com/index/vpt/) | [DreamerV3](https://www.nature.com/articles/s41586-025-08744-2) | Previous SOTA | TARS w/o Thought | TARS w/ Thought |
 |-------------|---------------------|----------|----------------|--------------------|------------------|-----------------|
-| Mine Blocks | (oak_log)               | 0.8      | 1.0            | 0.5                | 1.0              | 1.0             |
+| Mine Blocks | (oak_log)               | 0.8      | 1.0            | 1.0                | 1.0              | 1.0             |
 |             | (obsidian)          | 0.0      | 0.0            | 0.0                | 0.2              | 0.3             |
 |             | (white_bed)               | 0.0      | 0.0            | 0.1                | 0.4              | 0.6             |
 |             | **200 Tasks Avg.**  | 0.06     | 0.03           | 0.32               | 0.35             | 0.42            |
 | Kill Mobs   | (mooshroom)            | 0.0      | 0.0            | 0.1                | 0.3              | 0.4             |
 |             | (zombie)            | 0.4      | 0.1            | 0.6                | 0.7              | 0.9             |
-|             | (chicken)          | 0.1      | 0.0            | 0.1                | 0.5              | 0.6             |
+|             | (chicken)          | 0.1      | 0.0            | 0.4                | 0.5              | 0.6             |
 |             | **100 Tasks Avg.**  | 0.04     | 0.03           | 0.18               | 0.25             | 0.31            |
 
 
