@@ -76,7 +76,7 @@ Application: https://github.com/bytedance/UI-TARS-desktop
 |             | (chicken)          | 0.1      | 0.0            | 0.4                | 0.5              | 0.6             |
 |             | **100 Tasks Avg.**  | 0.04     | 0.03           | 0.18               | 0.25             | 0.31            |
 
-# Model Scale Comparison
+## Model Scale Comparison
 
 This table compares performance across different model scales of UI-TARS on the OSworld benchmark.
 
