@@ -65,7 +65,7 @@ Application: https://github.com/bytedance/UI-TARS-desktop
 
 **Minecraft**
 
-| Task Type   | Task Name           | [VPT](https://openai.com/index/vpt/) | [DreamerV3](https://www.nature.com/articles/s41586-025-08744-2) | Previous SOTA | TARS w/o Thought | TARS w/ Thought |
+| Task Type   | Task Name           | [VPT](https://openai.com/index/vpt/) | [DreamerV3](https://www.nature.com/articles/s41586-025-08744-2) | Previous SOTA | UI-TARS-1.5 w/o Thought | UI-TARS-1.5 w/ Thought |
 |-------------|---------------------|----------|----------------|--------------------|------------------|-----------------|
 | Mine Blocks | (oak_log)               | 0.8      | 1.0            | 1.0                | 1.0              | 1.0             |
 |             | (obsidian)          | 0.0      | 0.0            | 0.0                | 0.2              | 0.3             |
