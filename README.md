@@ -14,6 +14,8 @@ library_name: transformers
 # UI-TARS-1.5 Model
 ## Introduction
 
+We shared the latest progress of the UI-TARS-1.5 model in [our blog](https://seed-tars.com/1.5/), which excels in playing games and performing GUI tasks
+
 UI-TARS-1.5, an open-source multimodal agent built upon a powerful vision-language model. It is capable of effectively performing diverse tasks within virtual worlds.
 
 Leveraging the foundational architecture introduced in [our recent paper](https://arxiv.org/abs/2501.12326), UI-TARS-1.5 integrates advanced reasoning enabled by reinforcement learning. This allows the model to reason through its thoughts before taking action, significantly enhancing its performance and adaptability, particularly in inference-time scaling. Our new 1.5 version achieves state-of-the-art results across a variety of standard benchmarks, demonstrating strong reasoning capabilities and notable improvements over prior models.
